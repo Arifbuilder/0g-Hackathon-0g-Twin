@@ -1,0 +1,254 @@
+[
+  {
+    "id": "d7fa8ea4-f005-4872-a277-c0aa30b9a002",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "preference",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:44:39.825Z",
+    "txHash": "0xcc5a4c356ed605a4a78469274f6adefa02a7229454d8b298a06325f0b1bedae7"
+  },
+  {
+    "id": "766555be-f56d-4573-bb42-a0edb9169c6d",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "project",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:44:40.143Z",
+    "txHash": "0xd2b26d62947ef34e138d7f4830fdc527398a2ed369d3d5f451627dc42fc77664"
+  },
+  {
+    "id": "e2363dbe-3d16-4528-8b2b-51e6dcd2fc39",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "goal",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:44:40.295Z",
+    "txHash": "0xdbf80e7733272243aa961dfcc233a38a657726e768b271a3740667e4294e4f37"
+  },
+  {
+    "id": "4d54a4f8-7bf0-471f-a5a8-e2153d41c8a9",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "skill",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:44:40.433Z",
+    "txHash": "0xaa16338a7a83bd6ba9030dc79f95755ff93f8d27ea87474f07702b46565ea923"
+  },
+  {
+    "id": "4ae92fba-0664-4b69-b37e-01a2e27c41ab",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "preference",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:44:57.294Z",
+    "txHash": "0xee9bcf3a74dc0f03e7194f89219b43b2fdf30e07adc6decf0b2328c2ae9ee6f3"
+  },
+  {
+    "id": "cce61a8e-48b1-420a-a4e3-31c63048704e",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "project",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:44:57.486Z",
+    "txHash": "0x2d5d2ae5f21225eb876cf4eec4cd2860820e6d0d6cd930fe1cedbc5adf5d5d65"
+  },
+  {
+    "id": "a3a7d08d-a085-47dc-9f80-5d573af9a94b",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "goal",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:44:57.665Z",
+    "txHash": "0xa8bdd6adffe9c1174b088eecf85371850ee4d14618087f9108f0bd1404ba75ba"
+  },
+  {
+    "id": "3e2883eb-37ef-40b0-8ad7-9a1d0ecc05bb",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "skill",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:44:57.812Z",
+    "txHash": "0x4829aa5e2c85a4e518898e3f68ffc6bf21090f6c0461e4fdba7426a871de29a6"
+  },
+  {
+    "id": "b79bb2b7-78c7-47ca-b0aa-089d191f7e7d",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "preference",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:45:18.339Z",
+    "txHash": "0x2b89394cfc81a29e735187b0b5f84e46694beac759be07b8c0afa75de6b91d2c"
+  },
+  {
+    "id": "43d9995e-8d5e-4470-a4cb-22753dfea261",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "project",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:45:18.477Z",
+    "txHash": "0xce633fc1694b6c4f0b81a1767fb81a89896ac496e493bca29405ac6c182c8999"
+  },
+  {
+    "id": "4796f920-e3e7-4d56-8442-9ee75190eab1",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "goal",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:45:18.639Z",
+    "txHash": "0x73ec90f28b57ab6973fd913ddd16c09157fcdb08540fa57bb6f7f98b9bcaf512"
+  },
+  {
+    "id": "4695d4e8-571c-4745-8aad-c5568a10cfdb",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "skill",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:45:18.763Z",
+    "txHash": "0xd7ff65331f386349d5f66584e6753a511f79306e594f445e23c59ec651f14bfe"
+  },
+  {
+    "id": "86f4944a-4db4-4d9c-8526-95d0c0bd6a1a",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "preference",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:48:06.694Z",
+    "txHash": "0x6fe478a6c4b3beb4fdd74be9190d1c613b99bdac7c9d0f1ec2fbf108e5437ebe"
+  },
+  {
+    "id": "4a05bec5-4572-4873-8ee1-f99bcb4a47fd",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "project",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:48:06.848Z",
+    "txHash": "0xc88dc204859ee267fab9b0cf4c41507e250589f3466e4eb21fc98a341f09af76"
+  },
+  {
+    "id": "0a12774c-4edb-4f53-994d-3cf8a8f448db",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "goal",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:48:06.972Z",
+    "txHash": "0x3ad60a359fabb2eb1dc4b7bc1e0878c6074818b28ffd86d1ac56dc693e11a22f"
+  },
+  {
+    "id": "56ce7485-311c-4427-87fe-287abcae8833",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "skill",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:48:07.101Z",
+    "txHash": "0xd42b495d13dce21572c8073e645345611eba9ecd10af279afd64c83326c4cbac"
+  },
+  {
+    "id": "c7ca2832-918f-4364-a336-9e980ffdd9f2",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "preference",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:48:36.368Z",
+    "txHash": "0xb99c81bbc5e058ea4b438ec38041073f3b61be3c524167f7aba0ee750f6bd0ea"
+  },
+  {
+    "id": "28d81c56-4702-4aa3-af73-a8952d5b98fc",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "project",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:48:36.534Z",
+    "txHash": "0xcef0a2b5f94d497ca435b3cde2504f40dd652a5fef37526abd477e8aa5710d54"
+  },
+  {
+    "id": "1f33532d-82db-481b-a081-c33793f5a61f",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "goal",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:48:36.647Z",
+    "txHash": "0x6d043c2f828fdb1ca21640e11d039ee62adf7ca390393d1ff7a72f24bf9a03e8"
+  },
+  {
+    "id": "2985d56e-9137-407f-94cd-3403edf083dc",
+    "userId": "0xfbb74ee83e10c95c52aa23c347de543083abfdaa",
+    "type": "skill",
+    "content": "Hello! I remember you mentioned before: \"Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! \". Based on that and your digital twin profile, I'm here to assist you! What can I do for you today? ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:48:36.770Z",
+    "txHash": "0x81f8c63b1555044d4c7fa152e3d17c263da4db7aff093a825612fb77e582537f"
+  },
+  {
+    "id": "c8e4af3f-1025-451b-9654-aeba0b75eee2",
+    "userId": "0x87016e5254aed558a23cb723f3b1895e5d1883f0",
+    "type": "preference",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:51:01.057Z",
+    "txHash": "0x6cea519cdb651b7610c5cc4e2d6cda11c1d5eb0b345fcd90aceee6d94a34b29d"
+  },
+  {
+    "id": "808736e0-7cac-48b6-81f4-6fd635424656",
+    "userId": "0x87016e5254aed558a23cb723f3b1895e5d1883f0",
+    "type": "project",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:51:01.267Z",
+    "txHash": "0x173fba247b6e83ce03e21dc0cb47f295a7088bdd6fb8e09ac08bcaab88272f32"
+  },
+  {
+    "id": "bcf57cbd-e356-4220-972e-1a2fd116dd0a",
+    "userId": "0x87016e5254aed558a23cb723f3b1895e5d1883f0",
+    "type": "goal",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:51:01.406Z",
+    "txHash": "0x5979d9dad6b59362787b44bd105188a0edcf1da96ada8cebcb15cf98ed61b849"
+  },
+  {
+    "id": "36070437-36c1-4bba-8218-08385845ae42",
+    "userId": "0x87016e5254aed558a23cb723f3b1895e5d1883f0",
+    "type": "skill",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:51:01.597Z",
+    "txHash": "0x1c4c048c7f85b368f382b4ba8d5623651450c8dc2892dfa5fc59153b8061caad"
+  },
+  {
+    "id": "ce094a88-f39e-4b35-9851-5e19d70bd710",
+    "userId": "0x87016e5254aed558a23cb723f3b1895e5d1883f0",
+    "type": "preference",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:51:10.679Z",
+    "txHash": "0xed19c4c20efa43ad55c90a32beef4bc76a4a8d0c071ada5ca40608bb871514a9"
+  },
+  {
+    "id": "2556a1cd-752d-4553-8e83-f01e560f3616",
+    "userId": "0x87016e5254aed558a23cb723f3b1895e5d1883f0",
+    "type": "project",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:51:10.818Z",
+    "txHash": "0x4f42a67ccc8eafd683a59605dd483c16451340ce088b3821ece1b19c73dbe97d"
+  },
+  {
+    "id": "2e43f97e-134f-4caf-964c-f682f934c25b",
+    "userId": "0x87016e5254aed558a23cb723f3b1895e5d1883f0",
+    "type": "goal",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 8,
+    "timestamp": "2026-06-24T16:51:10.977Z",
+    "txHash": "0xdf4a27c47c433cd955d7693a325d8691464f3455fd2898456cd4ab2a8d32dd04"
+  },
+  {
+    "id": "66bf3acb-0b8a-400a-8a3d-013465d62696",
+    "userId": "0x87016e5254aed558a23cb723f3b1895e5d1883f0",
+    "type": "skill",
+    "content": "Hi there! I am your 0G Digital Twin. I have established a secure connection to the 0G Storage network. As we talk, I will analyze our conversation and automatically upload permanent memories of your skills, goals, preferences, and projects. Try telling me about yourself! ",
+    "importance": 7,
+    "timestamp": "2026-06-24T16:51:11.143Z",
+    "txHash": "0x2fb4d52569f5b4d0cd66642f53c7ebcfa939095ab9e7d333b5c8380e19a21efc"
+  }
+]
